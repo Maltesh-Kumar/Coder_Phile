@@ -2,9 +2,9 @@ The following course is divided into 3 phases:
 
 Phase 1:  
 
-- Introduction Class</br>
-- Python-3 Fundamentals</br>
-- Pandas</br>
+- Introduction Class
+- Python-3 Fundamentals
+- Pandas
 - Numpy
 - Matplotlib & Seaborn
 
