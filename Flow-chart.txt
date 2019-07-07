@@ -1,0 +1,68 @@
+The following course is divided into 3 phases:
+
+ 
+
+Phase 1:  
+
+Introduction Class
+
+Python-3 Fundamentals
+
+Pandas
+
+Numpy
+
+matplotlib & Seaborn
+
+
+Phase 2:  
+
+Linear Algebra
+
+Probability
+
+Statistics
+
+Exploratory Data Analysis
+
+
+Phase 3: 
+
+Regression Model:
+
+Simple Linear Regression
+
+Multiple Regression
+
+Gradient Descent
+
+Polynomial Regression
+
+Classification Model:
+
+Logistic Regression
+
+Naive Bayes Classifier
+
+KNN
+
+SVM
+
+Decision Trees
+
+Ensembling
+
+Unsupervised Learning:
+
+Clustering Concept
+
+Introduction to Deep Learning
+
+Introduction to Kaggle
+
+Major Project
+
+
+All of these concepts will be learnt by coding, so everyone are  requested to get their own personal laptop and have anaconda platform installed as we use jupyter notebook to compile the code.
+
+If you have any questions please email us at iamcoderphile@gmail.com
