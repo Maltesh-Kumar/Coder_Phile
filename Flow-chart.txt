@@ -1,64 +1,63 @@
-<b>The following course is divided into 3 phases:</b>
+The following course is divided into 3 phases:
 
  
-
 Phase 1:  
 
-Introduction Class
+- Introduction Class
 
-Python-3 Fundamentals
+- Python-3 Fundamentals
 
-Pandas
+- Pandas
 
-Numpy
+- Numpy
 
-matplotlib & Seaborn
+- Matplotlib & Seaborn
 
 
 Phase 2:  
 
-Linear Algebra
+- Linear Algebra
 
-Probability
+- Probability
 
-Statistics
+- Statistics
 
-Exploratory Data Analysis
+- Exploratory Data Analysis
 
 
 Phase 3: 
 
 Regression Model:
 
-Simple Linear Regression
+- Simple Linear Regression
 
-Multiple Regression
+- Multiple Regression
 
-Gradient Descent
+- Gradient Descent
 
-Polynomial Regression
+- Polynomial Regression
 
 Classification Model:
 
-Logistic Regression
+- Logistic Regression
 
-Naive Bayes Classifier
+- Naive Bayes Classifier
 
-KNN
+- KNN
 
-SVM
+- SVM
 
-Decision Trees
+- Decision Trees
 
-Ensembling
+- Ensembling
 
 Unsupervised Learning:
 
-Clustering Concept
+- Clustering Concept
 
-Introduction to Deep Learning
+- Introduction to Deep Learning
 
-Introduction to Kaggle
+- Introduction to Kaggle
 
 Major Project
 
