@@ -42,6 +42,4 @@ Unsupervised Learning:
 - Introduction to Kaggle
 
 
-All of these concepts will be learnt by coding, so everyone are  requested to get their own personal laptop and have anaconda platform installed as we use jupyter notebook to compile the code.
-
 If you have any questions please email us at iamcoderphile@gmail.com
